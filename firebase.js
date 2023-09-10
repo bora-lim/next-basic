@@ -2,7 +2,7 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAhu3xKw_ILP1NAxxUpxbc50IJoGHZQ_ho",
+  apiKey: NEXT_FIREBASE_API_KEY,
   authDomain: "decode-community-c2eaf.firebaseapp.com",
   projectId: "decode-community-c2eaf",
   storageBucket: "decode-community-c2eaf.appspot.com",
